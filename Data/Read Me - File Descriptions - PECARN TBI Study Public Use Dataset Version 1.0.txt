@@ -1,0 +1,33 @@
+******************************************************************************************
+PECARN TBI Study Public Use Dataset Version 1.0
+Dataset Created: July 2, 2012.  Included sub-datasets prepared in April & May, 2012.
+******************************************************************************************
+
+The files in this CD/DVD comprise the entire TBI STudy Public Use Dataset Version 1.0.
+
+
+FOLDER: Protocol and Data Collection Forms
+
+1.  IRB.Protocol.January 19, 2006 Version 6.0.pdf: PDF file of the study protocol.
+2.  TBI DATA Forms 1-4-6-7.pdf: PDF file of the data collection forms used in the study.
+
+FOLDER: TBI Main
+
+1.  TBI PUD Documentation.pdf: Contains a description of all the variables in the TBI Main public use dataset along with the variables names, formats, and labels.
+2.  TBI PUD.csv: CSV file of the TBI Main public use dataset.
+3.  Read in TBI CSV.sas:  A SAS file that will read in the TBI Main public use dataset CSV and apply the associated labels and formats in SAS.
+4.  TBI PUD Frequencies of Variables.pdf:  Contains frequency distributions for all variables in the TBI Main public use dataset.
+
+FOLDER: TBI CT Imaging
+
+1.  TBI Imaging PUD Documentation.pdf:  Contains a description of all the variables in the TBI CT Imaging public use dataset along with the variable names, formats, and labels.
+2.  TBI PUD Imaging.csv: CSV file of the TBI Main public use dataset.
+3.  Read in TBI Imaging CSV.sas:  A SAS file that will read in the TBI CT Imaging public use dataset CSV and apply the associated labels and formats in SAS.
+
+
+FOLDER: TBI Neurologic Procedures
+
+1.  TBI PUD Neurosurgery Documentation.pdf:  Contains a description of all the variables in the TBI Neurologic Procedures public use dataset along with the variable names, formats, and labels.
+2.  TBI PUD Neuro.csv: CSV file of the TBI Neurologic Procedures public use dataset.
+3.  Read in TBI PUD NeuroDetails CSV.sas:  A SAS file that will read in the TBI Neurologic Procedures public use dataset CSV and apply the associated labels and formats in SAS.
+4.  TBI PUD Frequencies of Neuro Variables.pdf:  Contains frequency distributions for all variables in the TBI Neurologic Procedures public use dataset.
